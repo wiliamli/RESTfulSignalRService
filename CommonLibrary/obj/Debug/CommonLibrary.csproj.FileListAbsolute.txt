@@ -1,0 +1,6 @@
+E:\Demo\RESTfulSignalRServiceSoln\RESTfulSignalRServiceSoln\CommonLibrary\bin\CommonLibrary.dll
+E:\Demo\RESTfulSignalRServiceSoln\RESTfulSignalRServiceSoln\CommonLibrary\bin\CommonLibrary.pdb
+E:\Demo\RESTfulSignalRServiceSoln\RESTfulSignalRServiceSoln\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+E:\Demo\RESTfulSignalRServiceSoln\RESTfulSignalRServiceSoln\CommonLibrary\obj\Debug\CommonLibrary.dll
+E:\Demo\RESTfulSignalRServiceSoln\RESTfulSignalRServiceSoln\CommonLibrary\obj\Debug\CommonLibrary.pdb
+E:\Demo\RESTfulSignalRServiceSoln\RESTfulSignalRServiceSoln\CommonLibrary\obj\Debug\CommonLibrary.csprojAssemblyReference.cache
